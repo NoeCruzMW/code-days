@@ -9,7 +9,7 @@ import java.util.Map;
  * SoftwareForSearching01
  * 
  * @author Noé Cruz López | Zurck'z 2020 | contactozurckz@gmail.com
- * @version 1.0 15-03-2020 Jufge COJ Problem
+ * @version 1.0 15-03-2020 Judge COJ Problem
  *          https://coj.uci.cu/24h/problem.xhtml?pid=2712
  */
 public class SoftwareForSearching01 {
