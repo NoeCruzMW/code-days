@@ -14,7 +14,7 @@ import java.util.Map;
  */
 public class SoftwareForSearching01 {
 
-    public static void main(final String[] args) {
+    public static void main(final String[] args) throws IOException {
         final InputStreamReader iStreamReader = new InputStreamReader(System.in);
         final BufferedReader bufferedReader = new BufferedReader(iStreamReader);
 

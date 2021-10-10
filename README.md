@@ -18,12 +18,9 @@ A collection of basic programming problems availables in:
 - [Zurck'z Fb](https://www.facebook.com/zurckz2018)
 - [Zurck'z Yt](https://www.youtube.com/channel/UC4ONyfUcqxe5OzEDc0kOHag)
 
-
 ## You need help with some programming exercise
 
-
 I can help. contact me on my facebook page
-
 
 ## Authors
 
